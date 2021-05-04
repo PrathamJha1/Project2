@@ -1,0 +1,151 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background: #ff4c68;
+    color: white;
+}
+h1{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 3.2rem;
+    line-height: 1.5;
+}
+.col-lg-6{
+    padding:5%;
+}
+h2{
+    font-family:'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+p{
+    font-family: 'Ubuntu',sans-serif;
+    color:grey;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+}
+.nav-link{
+    font-family: 'Montserrat-light',sans-serif;    
+}
+.image{
+    transform: rotate(22deg);
+}
+#features{
+    padding:7% 14%;
+}
+#features h3{
+    font-family: 'Monsterrat-Black',sans-serif;
+    font-size:20px;
+    font-weight: 1000;
+}
+#features p{
+    color:grey;
+    font-size: 14px;
+
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color:#ff4c68;
+    margin-bottom: 20px;
+}
+.icon:hover{
+    color:#f50025;
+}
+#testimonials{
+    text-align: center;
+    background: #ff4c68;
+    color: white;
+}
+.testimonial-text{
+    font-family: 'Monsterrat',sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 6%;
+}
+.testimonial-image{
+    width:10%;
+    border-radius: 100%;
+    margin:25px;
+}
+#press{
+    background:#ff4c68 ;
+    text-align: center;
+    padding:4%;
+}
+.logo{
+    width:15%;
+    margin:20px 15px 20px 15px;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+#Pricing{
+    padding:5%;
+    text-align: center;
+}
+.pricing-column{
+    padding:3% 3%;
+}
+.section-heading{
+    line-height: 100px;
+}
+.but{
+    background:#ff4c68 ;
+    color:white;
+    border-color: white;
+}
+.but:hover{
+    color:black;
+    background: white;
+}
+#cta{
+    text-align: center;
+    background: #ff4c68;
+    padding: 10%;
+}
+#cta h3{
+    font-size: 3.2rem;
+    color:white;
+    line-height: 100px;
+    padding:50px;
+}
+.bt1{
+    margin:10px;
+}
+.logo1:hover{
+color:blue;
+}
+.logo2:hover{
+    color:maroon;
+}
+.logo3:hover{
+    color:mediumblue;
+}
+.logo4:hover{
+    color:red;
+}
+.foot-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+}
+#footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    padding:6% ;
+}
+#footer p{
+    font-size: 1.25rem;
+    font-weight: normal;
+    font-family: 'Ubuntu',sans-serif;
+}
