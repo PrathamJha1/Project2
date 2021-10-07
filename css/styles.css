@@ -149,3 +149,7 @@ color:blue;
     font-weight: normal;
     font-family: 'Ubuntu',sans-serif;
 }
+
+.hide-text {
+    display: none;
+}
